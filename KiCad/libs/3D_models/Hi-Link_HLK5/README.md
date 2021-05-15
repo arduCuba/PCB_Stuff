@@ -5,10 +5,10 @@
 | **Valores de ajuste en el KiCad** |
 |---|
 |Escala:|
-  - X: 0.8
-  - Y: 0.88
-  - Z: 0.86
-  - 
+  |- X: 0.8|
+  |- Y: 0.88|
+  |- Z: 0.86|
+   
 Rotación
   - X: 00.0
   - Y: 90.0
