@@ -4,8 +4,7 @@
 
 | **Valores de ajuste en el KiCad** |
 |---|
-
-Escala:
+|Escala:|
   - X: 0.8
   - Y: 0.88
   - Z: 0.86
