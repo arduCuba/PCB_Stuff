@@ -2,7 +2,7 @@
 
 ![Optional Text](../Hi-Link_HLK5/hlk5.png)
 
-**Valores de ajuste en el KiCad**
+| **Valores de ajuste en el KiCad** |
 
 Escala:
   - X: 0.8
